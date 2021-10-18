@@ -1,4 +1,4 @@
-# Discord-RPC
+# SimpeRPC
 FiveM and Discord RPC with Buttons
 
 # Support
